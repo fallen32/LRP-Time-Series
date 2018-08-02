@@ -1,12 +1,11 @@
 # TimeNet Project
 
 ### **CONTENT**
-Reproducing "TimeNet: Pre-trained deep recurrent neural network for time series classification"
- <https://arxiv.org/abs/1706.08838>
+시계열 데이터를 활용한 LRP실습
 
 ### **HOW TO RUN** 
-Get Time Series Data from <http://www.cs.ucr.edu/~eamonn/time_series_data/>   Or Run with your own data
-<br><br><br>
+git 사용자의 경우 repository를 clone하고, git이 설치되어 있지 않으면 zip파일을 다운받아서 본인 작업경로로 옮긴다
+
 
 > TimeNet Project is based on XAI Project
 
