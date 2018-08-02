@@ -7,9 +7,8 @@
 git 사용자의 경우 repository를 clone하고, git이 설치되어 있지 않으면 zip파일을 다운받아서 본인 작업경로로 옮긴다
 
 
-> TimeNet Project is based on XAI Project
 
-
+<br /> 
 
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
