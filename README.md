@@ -19,6 +19,6 @@ git 사용자의 경우 repository를 clone하고, git이 설치되어 있지 �
 ### **Managed by** 
 > Ministry of Science and ICT/XAIC
 ### **Participated Affiliation** 
-> UNIST, Korean Univ., Yonsei Univ., KAIST., AItrics
+> UNIST, Korea Univ., Yonsei Univ., KAIST., AItrics
 ### **Web Site** 
 > <http://openXai.org>
