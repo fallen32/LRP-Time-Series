@@ -3,9 +3,11 @@
 ### **CONTENT**
 시계열 데이터를 활용한 LRP실습
 
+### **Dataset**
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
 ### **HOW TO RUN** 
 git 사용자의 경우 repository를 clone하고, git이 설치되어 있지 않으면 zip파일을 다운받아서 본인 작업경로로 옮긴다
-
 
 
 <br /> 
